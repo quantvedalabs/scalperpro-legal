@@ -5,9 +5,9 @@
 ---
 
 ## Contact Us
-* **Developer:** Samuel Yadav (QuantVeda Labs)
-* **Support Email:** [YOUR EMAIL]@gmail.com
-* **Phone:** [YOUR PHONE NUMBER]
+* **Developer:** QuantVeda Labs
+* **Support Email:** quantvedalabs@icloud.com
+* **Phone:** +919580202020
 * **Registered Address:** Lucknow, Uttar Pradesh, India
 
 ---
